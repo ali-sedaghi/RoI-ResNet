@@ -4,6 +4,8 @@ Region of Interest (RoI) based Bottleneck Residual Network trained on FER2013 da
 The idea behind applying RoI comes from [Classifying a specific image region using
 convolutional nets with an ROI mask as input](https://arxiv.org/abs/1812.00291) paper.
 
+![block](https://user-images.githubusercontent.com/45814362/196834262-e2d222d0-0663-42b7-a250-d1f62c22f78b.jpg)
+
 Our model achieved an accuracy of 70.2 percent on FER2013 test set.
 
 This model is used on an end-to-end network for facial expression recognition task.
